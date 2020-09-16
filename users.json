@@ -1,0 +1,5 @@
+{
+	"john": {"password": "Coffee81", "admin": 1},
+	"daniel": {"password": "Circle12", "admin": 0},
+	"sarah": {"password": "Potato55", "admin": 0}
+}

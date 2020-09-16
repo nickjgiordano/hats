@@ -1,0 +1,20 @@
+{
+	"563466": {
+		"item": "SONY BRAVIA TV 55 inches",
+		"description": "SONY BRAVIA Smart Television 55inches 4K",
+		"price": 720,
+		"image": "sony-bravia.jpg"
+	},
+	"793452": {
+		"product": "Russell Hobbs Kettle",
+		"description": "Russell Hobbs Kettle Metallic Red",
+		"price": 39.99,
+		"image": "russell-hobbs.jpg"
+	},
+	"833105": {
+		"product": "Lenovo Laptop",
+		"description": "Lenovo Laptop 16GB RAM SSD",
+		"price": 600,
+		"image": "lenovo.jpg"
+	}
+}
